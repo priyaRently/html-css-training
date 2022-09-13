@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Six Part2</title>
+    <style>
+        * {
+            margin: 0 0;
+        }
+        body {
+            background: grey;
+        }
+        .mydiv{
+            position: relative;
+            height: 200px;
+            width: 200px;
+            background-color: black;
+            animation-name: ani;
+            animation-duration: 5s;
+            animation-delay: 1s;
+            animation-timing-function: ease-in;
+            animation-iteration-count: 2;
+            
+        }
+        @keyframes ani{
+            0% {
+                top: 0px;
+                left: 0px;
+            }
+            25% {
+                top: 520px;
+                left: 0px;
+            }
+            50% {
+                top: 520px;
+                left: 1335px;
+            }
+            75% {
+                top: 0px;
+                left: 1335px;
+            }
+            100% {
+                top: 0px;
+                left: 0px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="mydiv"></div>
+</body>
+</html>

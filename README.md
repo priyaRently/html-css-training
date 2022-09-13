@@ -12,3 +12,7 @@ Task3 Flex:   ![Screenshot from 2022-09-08 15-53-23](https://user-images.githubu
 Task3 Css Grid:   ![Screenshot from 2022-09-08 15-54-40](https://user-images.githubusercontent.com/113019240/189099175-7126d96c-6372-4e52-890d-3b7720da4a17.png)
 
 Task3 Part2:   ![Screenshot from 2022-09-08 15-55-28](https://user-images.githubusercontent.com/113019240/189099329-12296f42-e973-40f6-a9aa-fc3c3739a725.png)
+
+Task4:  ![Screenshot from 2022-09-12 13-30-27](https://user-images.githubusercontent.com/113019240/189605578-34f7f1c9-e34e-4872-9884-b9e2af1e038a.png)
+
+Task4 Card: ![Screenshot from 2022-09-12 15-13-37](https://user-images.githubusercontent.com/113019240/189623247-a308aeaa-a33e-48b7-b96d-0b1c72ec9e6e.png)

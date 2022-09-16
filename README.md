@@ -22,3 +22,8 @@ Task5:  ![Screenshot from 2022-09-13 16-48-54](https://user-images.githubusercon
 Task6: ![Screenshot from 2022-09-13 16-48-59](https://user-images.githubusercontent.com/113019240/189888089-10d201a6-a556-4ffd-be2e-050d1b4a463d.png)
 
 Task6 Part2:  ![Screenshot from 2022-09-13 16-48-52](https://user-images.githubusercontent.com/113019240/189888188-73e0a628-7858-4edf-9d30-0e118d911b12.png)
+
+Personal Blog:  ![Screenshot from 2022-09-16 18-03-39](https://user-images.githubusercontent.com/113019240/190639841-bfbc14b5-529f-4b35-8043-88bc50afac38.png)
+![Screenshot from 2022-09-16 18-03-48](https://user-images.githubusercontent.com/113019240/190639902-8cfa2706-2e09-40cf-b53c-483933ea30bc.png)
+![Screenshot from 2022-09-16 18-03-56](https://user-images.githubusercontent.com/113019240/190639931-0b369089-fcc1-4ee1-a1f7-c30f90b52863.png)
+

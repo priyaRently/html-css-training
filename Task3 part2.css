@@ -8,59 +8,58 @@
     position: absolute;
     left: 0px;
     top: 0px;
-    margin: auto;
+    
 }
 #b {
     position: absolute;
     right: 0px;
     top: 0px;
-    margin: auto;
+    
 }
 
 #c {
     position: absolute;
     bottom: 0px;
     left: 0px;
-    margin: auto;
+    
 }
 
 #d {
     position: absolute;
     bottom: 0px;
     right: 0px;
-    margin: auto;
+    
+}
+
+.center {
+    width: 500px;
+    height: 700px;
+    background-color: blue;
+    position: relative;
+    margin: auto;  
 }
 #w {
     position: absolute;
     left: 0px;
     top: 0px;
-    margin: auto;
+    
 }
 #x {
     position: absolute;
     right: 0px;
     top: 0px;
-    margin: auto;
+    
 }
 
 #y {
     position: absolute;
     bottom: 0px;
     left: 0px;
-    margin: auto;
-}
+}   
 
 #z {
     position: absolute;
     bottom: 0px;
     right: 0px;
-    margin: auto;
-}
-.center {
-    width: 500px;
-    height: 700px;
-    background-color: blue;
-    position: relative;
-    margin: auto;
     
 }

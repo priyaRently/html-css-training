@@ -7,28 +7,24 @@
 #a {
     position: absolute;
     left: 0px;
-    top: 0px;
-    
+    top: 0px; 
 }
 #b {
     position: absolute;
     right: 0px;
-    top: 0px;
-    
+    top: 0px;   
 }
 
 #c {
     position: absolute;
     bottom: 0px;
-    left: 0px;
-    
+    left: 0px;  
 }
 
 #d {
     position: absolute;
     bottom: 0px;
-    right: 0px;
-    
+    right: 0px;  
 }
 
 .center {
@@ -41,14 +37,12 @@
 #w {
     position: absolute;
     left: 0px;
-    top: 0px;
-    
+    top: 0px;  
 }
 #x {
     position: absolute;
     right: 0px;
-    top: 0px;
-    
+    top: 0px;  
 }
 
 #y {
@@ -60,6 +54,5 @@
 #z {
     position: absolute;
     bottom: 0px;
-    right: 0px;
-    
+    right: 0px;  
 }
